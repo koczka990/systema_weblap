@@ -1,0 +1,17 @@
+---
+layout: 'base.njk'
+---
+
+<section class="container">
+    <div class="row">
+        <div class="col-md-6 col-10">
+            <h1>{{ title }}</h1>
+        </div>
+        <div class="col-md-6 col-10">
+            <img src="{{ image }}" alt="image_alt">
+        </div>
+    </div>
+    <div class="row">
+        {{ content | safe}}    
+    </div>
+</section>

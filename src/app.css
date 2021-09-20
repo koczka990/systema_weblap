@@ -1,0 +1,72 @@
+body{
+	background: #33398F;
+	color: #fff;
+	font-family: 'Noto Serif', serif;
+}
+
+.navbar{
+	background: #153243;
+}
+
+/*555B6E*/
+
+#mainNavbar .nav-link{
+	color: #DBE4EE;
+}
+
+#mainNavbar .nav-link:hover{
+	color: white;
+}
+
+.blurb{
+	margin-bottom: 50px;
+}
+
+footer{
+	background: #153243;
+	color: #DBE4EE;
+}
+
+footer a{
+	color: #DBE4EE;
+}
+
+footer a:hover{
+	color: white;
+}
+
+hr {
+  border-top: 1px solid rgb(255,255,255);
+}
+
+
+/* Container needed to position the button. Adjust the width as needed */
+.szolg {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.szolg img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.szolg  .btn {
+  position: absolute;
+  top: 93%;
+  left: 19%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.szolg .btn:hover {
+  background-color: #153243;
+}
+

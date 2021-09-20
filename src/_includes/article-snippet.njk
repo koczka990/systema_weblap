@@ -1,0 +1,10 @@
+<div class="row justify-content-around text-white my-5">
+  <div class="col-md-6 col-10">
+    <h3>{{ post.data.title }}</h3>
+    <p>{{ post.data.description }}</p>
+    <a href="{{ post.url }}" class="btn btn-primary">Tovább olvasom</a>
+  </div>
+  <div class="col-md-6 col-10">
+    <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}" />
+  </div>
+</div>
