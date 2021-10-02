@@ -11,16 +11,16 @@ imageAlt: oha_rhe
 ---
 Az OHA típ. hőszalagot számos előnye mellet a Systema SPA. mérnökei továbbfejlesztették. A fejlesztés eredménye az OHA RHE típ. hőszalag.
 
-Felidézve a teljesítmény képletét, ami a felületen kisugárzott össz energia:
+Felidézve a teljesítmény képletét, ami a felületen kisugárzott össz energia: 
 
-**P=AɛσT4** ahol
-     **A**- sugárzó felület
+#### **P=AɛσT4** 
 
-            **ɛ**- szürke test emissziós képessége, fekete test- ɛ=1.
+ahol: 
 
-            **σ**- Stefan-Boltzmann állandó
-
-            **T**- abszolút hőmérséklet (Kelvin)
+* **A** - sugárzó felület
+* **ɛ**- szürke test emissziós képessége, fekete test- ɛ=1.
+* **σ**- Stefan-Boltzmann állandó
+* **T**- abszolút hőmérséklet (Kelvin)
 
 Látható, hogy az optimális teljesítmény eléréséhez a negyedik hatványon szereplő T abszolút hőmérséklet értékét kell szabályozni.
 
